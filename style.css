@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Maven+Pro&display=swap');
+
+h1 {
+    text-align: center;
+    color: rgb(31, 148, 148);
+}
+table, td, th {
+    border-collapse: collapse;
+    border: 3px solid rgb(82, 92, 92);
+    padding: 15px;
+    font-family: 'Maven Pro', sans-serif;
+    }
+
+th {
+    font-size: larger;
+    background-color: cadetblue;
+    color: white;
+    font-family: 'Acme', sans-serif;
+    letter-spacing: 0.8mm;
+}
+
+.medium {
+    width: 150px;
+}
+.thin {
+    width: 150px;
+}
+.wide {
+    width: 750px;
+}
+
+span {
+    color: rgb(31, 148, 148);
+    font-weight: bolder;
+}
